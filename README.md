@@ -1,3 +1,3 @@
 # Hacker Earth
 
-My solution for Hacker Earth challenges.
+My solutions for Hacker Earth challenges.
